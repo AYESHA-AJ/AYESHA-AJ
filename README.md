@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi,I'm Ayesha! 👋
 
 <!--
 **AYESHA-AJ/AYESHA-AJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🙎 Software Engineer<br/>
+👑 A passionate Computer Science student at Bahria University<br/>
+💭 Currently exploring the MERN Stack , with a determination to master full-stack development.<br/>
+🌹 I love challenges that push my coding boundaries<br/>
+
+
+[![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYESHA-AJ&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
